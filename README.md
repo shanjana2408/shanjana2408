@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Sanju Saha
 
-<!--
-**shanjana2408/shanjana2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Beginner Developer  
+🤖 Interested in AI, Machine Learning & IoT  
+🌱 Currently learning Python, Git & basic ML  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, C, Java (Basics)
+- **Technologies:** Machine Learning (Basics), IoT
+- **Tools:** Git, GitHub, Arduino IDE
+- **Others:** Problem Solving, Learning by Projects
+
+---
+
+## 📌 Projects
+- 🔹 **Smart Temperature Monitoring System (IoT)**  
+  Uses sensors to measure temperature and humidity.
+
+- 🔹 **Student Result Prediction (ML)**  
+  Predicts student performance using basic ML concepts.
+
+- 🔹 **Simple Python Programs**  
+  Beginner-friendly programs for logic building.
+
+*(More projects coming soon 🚀)*
+
+---
+
+## 📚 Currently Learning
+- Machine Learning fundamentals  
+- Python for data analysis  
+- Git & GitHub best practices  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: add-your-link-here  
+
+---
+
+⭐ *I’m a beginner, learning step by step and building simple projects to grow my skills.*  
