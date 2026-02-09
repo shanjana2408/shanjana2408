@@ -37,8 +37,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: add-your-link-here  
+- 📧 Email: sanjusaha2408@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/shanjana-saha2408/  
 
 ---
 
